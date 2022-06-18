@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @diogxd
-- 👀 I’m interested in software development, web development
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m Diogo Tandeta Tartarotti
+- 👀 I’m interested in web development, software development
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on mostly anything right now
 - 📫 How to reach me ...
 
